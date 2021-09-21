@@ -32,8 +32,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Troubleshooting the "Reduced engine power" light in Chevrolet vehicles
-      url: 
+    - title: Reading error codes with an OBD-II scan tool
+      url: reading-obd-codes.html
       output: web, pdf
 
   - title: FAQs
