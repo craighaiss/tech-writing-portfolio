@@ -12,7 +12,7 @@ permalink: reading-obd-codes.html
 
 This topic outlines the steps you take to read OBD-II messages stored in your vehicle's computer. This will allow you to view error codes related to the status lights on your vehicle's dashboard. You will need a scan tool that supports the OBD-II standard to complete this procedure.
 
-{% include note.html content="Most vehicles produced after 1996 support the ODB-II standard." %}
+{% include note.html content="Most vehicles produced after 1996 support the OBD-II standard." %}
 
 1. Locate the OBD-II port on your vehicle. In most vehicles, the port is located near the bottom of the dashboard, underneath the steering wheel.
 
@@ -22,7 +22,7 @@ This topic outlines the steps you take to read OBD-II messages stored in your ve
 
     ![OBD-II port](images/obd-ii-scan-port.jpg)
 
-4. If your ODB-II scan tool has a `Power` button, press it now.
+4. If your OBD-II scan tool has a `Power` button, press it now.
 
 5. Turn the key in the ignition to the `On` position. The display on your OBD-II scan tool should now be active.
 
