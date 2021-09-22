@@ -36,11 +36,19 @@ entries:
       url: reading-obd-codes.html
       output: web, pdf
 
+  - title: Troubleshooting
+    output: web, pdf
+    folderitems:
+
+    - title: Troubleshooting issues when using the wttr.in weather API
+      url: troubleshooting-wttr-api.html
+      output: web, pdf 
+
   - title: FAQs
     output: web, pdf
     folderitems:
 
-    - title: FAQ 1
+    - title: (Coming soon!)
       url: 
       output: web, pdf
 
@@ -48,11 +56,11 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Request
+    - title: Request (Coming soon!)
       url: 
       output: web, pdf
 
-    - title: Response
+    - title: Response (Coming soon!)
       url: 
       output: web, pdf
 
@@ -60,7 +68,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Video 1
+    - title: (Coming soon!)
       url: 
       output: web, pdf
 

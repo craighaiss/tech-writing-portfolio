@@ -11,7 +11,7 @@ As a Senior Technical Writer / Tech Lead for the software industry, I have been 
 
 This portfolio is an attempt to share writing samples that are my own. Any mistakes can be fully attributed to me.
 
-Please use the navigation on the left to view various samples of my writing. Some of them are the results of frustration, as I struggled with tasks that were either poorly documented or completely undocumented. Others are the results of converting conversations or non-professional video recordings into clear instructions, similar to how information is gathered from Subject-Matter Experts (SMEs).
+Please use the navigation on the left to view various samples of my writing. Some of them are the results of frustration, as I struggled with tasks that were either poorly documented or completely undocumented. Others are the results of converting conversations or non-professional video recordings into clear instructions, similar to how information is gathered from Subject-Matter Experts (SMEs). In some cases, I've started with rough Readme files drafted by developers and worked to improve clarity and organization, as well as add missing details.
 
 If you have questions regarding any of these samples, please contact me via the Feedback link in the page header.
 
